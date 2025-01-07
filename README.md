@@ -1,8 +1,7 @@
 # 🚀 Coherence AI Chat Integration  
 A **Spring Boot**-based REST API and web client integration with **Coherence AI** for seamless natural language interactions, similar to OpenAI's chatbot. This project demonstrates how to use Coherence AI's chat model to process user queries and deliver intelligent, AI-driven responses.
 
-## Website Live
-[Click Here](https://coherence-ai-production.up.railway.app/chat.html)
+## Website is Live [Click Here](https://coherence-ai-production.up.railway.app/chat.html)
 
 ---
 
